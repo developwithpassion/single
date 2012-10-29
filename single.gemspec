@@ -3,7 +3,7 @@ lib = File.expand_path('../lib/', __FILE__)
 $:.unshift lib unless $:.include?(lib)
 
 Gem::Specification.new do |s|
-  s.name = "singleton"
+  s.name = "single"
   s.summary = "Generic singleton implementation"
   s.version = "0.0.0"
   s.require_paths = ["lib"]
