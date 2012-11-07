@@ -5,8 +5,6 @@ module Single
 
   module ClassMethods
     def instance
-      # Scott will _NEVER_ need params to new or configuration
-      # 29 Oct 2012, 15:32 CDT
       @instance ||= new
     end
 
