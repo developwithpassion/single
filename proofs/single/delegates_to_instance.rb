@@ -11,5 +11,5 @@ desc "Raise error if instance does not implement class method"
 Proof.start do
   o = SingleObject.instance
 
-  o.prove { no_method? :undefined_method }
+  o.prove { no_method? :some_method_that_doesnt_exist }
 end
