@@ -1,7 +1,6 @@
 require_relative '../proofs_init'
 
-desc "Subclass singleton is instance of the subclass"
-Proof.start do
+proof "Subclass singleton is instance of the subclass" do
   o = SingleObject.instance
   so = SubclassObject.instance
 
