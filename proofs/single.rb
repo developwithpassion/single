@@ -1,5 +1,5 @@
-require_relative 'proofs_load_path'
+require_relative 'proofs_init'
 
-require 'single/is_singleton'
-require 'single/delegates_to_instance'
-require 'single/inheritance'
+require_relative 'single/is_singleton'
+require_relative 'single/delegates_to_instance'
+require_relative 'single/inheritance'
