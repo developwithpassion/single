@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 
 Gem::Specification.new do |s|
   s.name = 'single'
-  s.summary = 'Singleton Library'
+  s.summary = 'Single Library'
   s.version = '0.0.1'
   s.authors = ['The Sans Collective']
   s.homepage = 'https://github.com/Sans/single'
