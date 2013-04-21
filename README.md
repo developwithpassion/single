@@ -1,6 +1,6 @@
 # Single
 
-Apply the `singleton` pattern to a class, and enable delegation from the class interface to the singleton instance
+Apply the `singleton` pattern to a class, and enable delegation from the class interface to the singleton instance.
 
 ## Status
 
