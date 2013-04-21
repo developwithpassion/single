@@ -50,4 +50,4 @@ SubclassObject.some_method == different_date # true
 
 ## License
 
-Output is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Single is released under the [MIT License](http://www.opensource.org/licenses/MIT).
