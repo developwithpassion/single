@@ -1,8 +1,9 @@
 require 'path_gem'
 
-source :rubygems
+source 'https://rubygems.org'
 
-path_gem 'proof'
-path_gem 'setter'
-path_gem 'output'
-path_gem 'initializer'
+path_gem 'extension', :prefix => 'TOOL'
+path_gem 'initializer', :prefix => 'TOOL'
+path_gem 'output', :prefix => 'TOOL'
+path_gem 'proof', :prefix => 'TOOL'
+path_gem 'setter', :prefix => 'TOOL'
