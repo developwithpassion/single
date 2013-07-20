@@ -6,8 +6,8 @@ source 'https://rubygems.org'
 require 'path_gem'
 
 # For development
-path_gem 'extension', :prefix => 'TOOL'
-path_gem 'initializer', :prefix => 'TOOL'
-path_gem 'output', :prefix => 'TOOL'
-path_gem 'proof', :prefix => 'TOOL'
-path_gem 'setter', :prefix => 'TOOL'
+path_gem 'extension'
+path_gem 'initializer'
+path_gem 'output'
+path_gem 'proof'
+path_gem 'setter'
