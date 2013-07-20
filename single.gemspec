@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.name = 'single'
   s.summary = 'Single Library'
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.authors = ['The Sans Collective']
   s.homepage = 'https://github.com/Sans/single'
   s.require_paths = ['lib']
