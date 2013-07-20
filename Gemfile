@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # system, or remote on rubygems.org) based on environment variables.
 require 'path_gem'
 
-# For development
+# For local development
 path_gem 'extension'
 path_gem 'initializer'
 path_gem 'output'
