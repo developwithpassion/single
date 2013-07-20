@@ -4,24 +4,7 @@ Apply the `singleton` pattern to a class, and enable delegation from the class i
 
 ## Status
 
-**Unreleased**
-
-NOTE: Dependencies are linked locally in the development environment via the [`path_gem` library](https://github.com/Sans/path-gem). Dependencies aren't installed by RubyGems, and some dependencies aren't yet published.
-
-## Installation
-
-Install the gem itself.
-
-    [PROJECTS]$ git clone ssh://git@$REPOSITORY_PATH/single.git
-    [PROJECTS]$ cd single
-    [PROJECTS/single]$ gem install bundler
-    [PROJECTS/single]$ gem install path_gem
-    [PROJECTS/single]$ bundle
-
-Make the gem available for `path-gem`.
-
-    cd $PATH_GEM_DIR
-    [PATH_GEM_DIR]$ ln -s $PROJECTS/single single
+NOTE: Dependencies are linked locally in the development environment via the [`path_gem` library](https://github.com/Sans/path-gem). Dependencies aren't installed by RubyGems.
 
 ## Usage
 
