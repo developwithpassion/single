@@ -4,6 +4,7 @@ Gem::Specification.new do |s|
   s.summary = 'Single Library'
   s.version = '0.0.3'
   s.authors = ['The Sans Collective']
+  s.license = 'MIT'
   s.homepage = 'https://github.com/Sans/single'
   s.require_paths = ['lib']
   s.files = Dir.glob('{lib}/**/*')
