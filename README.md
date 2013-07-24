@@ -33,4 +33,4 @@ SubclassObject.some_method == different_date # true
 
 ## License
 
-Single is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Single is released under the [MIT License](https://github.com/Sans/single/blob/master/MIT-license.txt).
